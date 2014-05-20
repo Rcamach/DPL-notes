@@ -1,7 +1,7 @@
 Git Information
 
-git add     <i>Used to add new file</i>
-git commit  <i>Used to commit changes/additions and add a note</i>
-git status  <i>Displays current status of git</i>
-git push   <i>Updates changes and additions to github</i>
-git add .  <i>commits all changes and additions at once</i>
+git add     (Used to add new file)
+git commit  (Used to commit changes/additions and add a note)
+git status  (Displays current status of git)
+git push   (Updates changes and additions to github)
+git add .  (commits all changes and additions at once)
