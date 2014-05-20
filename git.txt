@@ -5,3 +5,7 @@ git commit  (Used to commit changes/additions and add a note)
 git status  (Displays current status of git)
 git push   (Updates changes and additions to github)
 git add .  (commits all changes and additions at once)
+
+git checkout -b new_branch_name -- (creates the new branch and checks out)
+git checkout master
+git checkout new_branch_name
