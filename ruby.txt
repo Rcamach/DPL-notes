@@ -1,0 +1,15 @@
+cd ~ (~ represents terminal home directory)
+irb (Ruby)
+string = data type (" ")
+Concatenation (mashing multiple strings together)
+fixed num (.class)
+Float
+
+.upcase
+.downcase
+.reverse
+method chaining ("string".upcase.reverse)
+variable (name = "rudy camacho") (= is an assignment)
+puts
+
+Variable Rules - all lowercase, variable name must begin w/letter, seperate words with _
