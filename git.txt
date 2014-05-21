@@ -14,7 +14,24 @@ git branch (can be used to create a new branch)
 git push origin
 git remote add
 git merge
-git pull origin 
+git pull origin
 git diff HEAD
 git reset
 git branch -d (used to delete a branch)
+git clone
+git config
+
+. <= before file name makes it hidden
+git init (creates new repo)
+git log
+cd .. (go back one directory)
+ls -la (list hidden files)
+ls (list everything within directory)
+
+PWD - current location
+cd - file navigator
+touch - make file
+rm - delete files
+clear - clear terminal
+ctrl + L = go to top of terminal (refresh)
+configuring terminal - atom .bash_profile

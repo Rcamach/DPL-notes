@@ -5,11 +5,15 @@ Concatenation (mashing multiple strings together)
 fixed num (.class)
 Float
 
+.capitalize
 .upcase
 .downcase
 .reverse
 method chaining ("string".upcase.reverse)
 variable (name = "rudy camacho") (= is an assignment)
 puts
+puts name = "rudy camacho"
+gets
+gets.chomp
 
-Variable Rules - all lowercase, variable name must begin w/letter, seperate words with _
+Variable Rules: all lowercase, variable name must begin w/letter, seperate words with _
