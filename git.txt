@@ -9,3 +9,12 @@ git add .  (commits all changes and additions at once)
 git checkout -b new_branch_name -- (creates the new branch and checks out)
 git checkout master
 git checkout new_branch_name
+
+git branch (can be used to create a new branch)
+git push origin
+git remote add
+git merge
+git pull origin 
+git diff HEAD
+git reset
+git branch -d (used to delete a branch)
